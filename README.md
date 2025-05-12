@@ -6,7 +6,8 @@
 [![OpenAI API](https://img.shields.io/badge/OpenAI-1.6.3-green.svg)](https://openai.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<img src="https://i.imgur.com/JDQ5j58.png" alt="TgBotGPT Demo" width="500"/>
+<img src="![image](https://github.com/user-attachments/assets/72484c22-2c1e-4436-9b3a-d1356e777511)
+" alt="TgBotGPT Demo" width="500"/>
 
 Умный Telegram-бот с обширной базой знаний по программированию и искусственному интеллекту, с возможностью подключения к VseGPT API для ответов на сложные вопросы.
 
