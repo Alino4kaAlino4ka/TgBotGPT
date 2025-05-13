@@ -4,7 +4,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![aiogram Version](https://img.shields.io/badge/aiogram-3.x-blue.svg)](https://docs.aiogram.dev/)
 [![OpenAI API](https://img.shields.io/badge/OpenAI-1.6.3-green.svg)](https://openai.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
  
 
