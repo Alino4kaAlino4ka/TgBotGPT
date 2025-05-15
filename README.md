@@ -1,5 +1,5 @@
 
-# 🚀 TgBotGPT - Умный Telegram бот с базой знаний и VseGPT API
+# 🚀 TgBotGPT - Умный Telegram бот с базой знаний и VseGPT API 
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![aiogram Version](https://img.shields.io/badge/aiogram-3.x-blue.svg)](https://docs.aiogram.dev/)
