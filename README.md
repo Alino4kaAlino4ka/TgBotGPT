@@ -6,7 +6,7 @@
 [![OpenAI API](https://img.shields.io/badge/OpenAI-1.6.3-green.svg)](https://openai.com/)
 
 
-
+ 
  
 
 Умный Telegram-бот с обширной базой знаний по программированию и искусственному интеллекту, с возможностью подключения к VseGPT API для ответов на сложные вопросы.
