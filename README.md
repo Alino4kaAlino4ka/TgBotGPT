@@ -5,7 +5,7 @@
 [![aiogram Version](https://img.shields.io/badge/aiogram-3.x-blue.svg)](https://docs.aiogram.dev/)
 [![OpenAI API](https://img.shields.io/badge/OpenAI-1.6.3-green.svg)](https://openai.com/)
 
-
+ 
  
  
 
